@@ -19,8 +19,8 @@ const defaultMenu = {
 │
 ├ Uptime: *%uptime (%muptime)*
 ├ Database: %rtotalreg dari %totalreg
-├ Github:
-├ %github
+├ Donasi: https://saweria.co/gilzzbotz
+├ Group Bot: https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy
 └────
 %readmore`.trim(),
   header: '┌─〔 %category 〕',
