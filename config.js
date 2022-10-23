@@ -37,7 +37,7 @@ global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons=========//
 global.dtu = 'SEWA BOT'
-global.urlnya = "wa.me/6281241056195"
+global.urlnya = "https://linktr.ee/gilzzbotz"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
